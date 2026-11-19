@@ -22,4 +22,4 @@ This project predicts handwritten digits (0-9) using CNN and Vision Transformer 
 ## Run Application
 python -m streamlit run app.py
 
-Repository Link:   [https://github.com/hammad27992/Handwritten-Digit-Prediction]
+Repository Link:   [https://github.com/rahmanali373/digit_project]
