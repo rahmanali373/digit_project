@@ -1,0 +1,7 @@
+{
+    "CNN Test Accuracy": 0.9185,
+    "CNN Macro F1": 0.9171,
+    "ViT Test Accuracy": 0.8407,
+    "ViT Macro F1": 0.8326,
+    "Majority Baseline Accuracy": 0.1037
+}
